@@ -17,7 +17,8 @@ Copy-paste template row:
 | Acronym       | Expaneded     | Definition | Sources  |
 | ------------- | ------------- | ---------- | ---------|
 | AGR | Agreement | def | src |
-| COMPS  | def  | def | src |
+| COMPS  | Compliments  | def | src |
+| CONJ | Conjugate | def | src |
 | det | Determiner | def | src |
 | itr  | Intransitive  | def | src |
 | NOM | Nominative | def | src |
