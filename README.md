@@ -31,7 +31,9 @@ Meta discussion: Should this include general vocabulary, including words defined
 | det | Determiner | def | src |
 | dtr | Ditransitive | def | pg. 62 |
 | DTV | Ditransitive Verb | def | pg. 38 |
+| GPSG | Generalized Phrase Structure Grammar | def | pg. 36 |
 | HFP | Head Feature Principle | def | src |
+| HPSG | Head-driven Phrase Structure Grammar | def | pg. 36 |
 | IST | Immediate Supertype | def | pg. 55 |
 | itr  | Intransitive  | def | pg. 62 |
 | IV | Intransitive Verb | def | pg. 38 |
