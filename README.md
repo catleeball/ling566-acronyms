@@ -30,8 +30,9 @@ Meta discussion: Should this include general vocabulary, including words defined
 | det | Determiner | | |
 | dtr | Ditransitive | | pg. 62 |
 | DTV | Ditransitive Verb | | pg. 38 |
+| GEND | Gender | | pg. 109 |
 | GPSG | Generalized Phrase Structure Grammar | | pg. 36 |
-| HFP | Head Feature Principle | | |
+| HFP | Head Feature Principle | | pg. 72 |
 | HPSG | Head-driven Phrase Structure Grammar | | pg. 36 |
 | IST | Immediate Supertype | | pg. 55 |
 | itr  | Intransitive  | | pg. 62 |
@@ -47,6 +48,8 @@ Meta discussion: Should this include general vocabulary, including words defined
 | PP | Preposition Phrase | | |
 | POS | Part of Speech | | pg. 51 |
 | S | Sentence | Used as the initial symbol at the root of a CFG. | pg. 27 |
+| SHAC | Specifier-Head Agreement Constraint | | pg. 107 |
+| spr | Specifier | | |
 | str | Strict-Transitive | | pg. 62
 | RESTR | Restriction | | pg. 136  |
 | RELN | Relation | | |
