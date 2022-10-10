@@ -18,45 +18,45 @@ Meta discussion: Should this include general vocabulary, including words defined
 
 | Acronym       | Expanded     | Definition / Notes | Sources  |
 | ------------- | ------------- | ---------- | ---------|
-| A | Adjective | def | pg. 27 |
-| AP | Adjective Phrase | def | src |
-| AGR | Agreement | def | src |
-| AUX | Auxillary | def | pg. 61, §3.3.3 |
+| A | Adjective | | pg. 27 |
+| AP | Adjective Phrase | | |
+| AGR | Agreement | | |
+| AUX | Auxillary | | pg. 61, §3.3.3 |
 | AVM | Attribute-Value Matrix | Bracket notation used in textbook for feature structures. | [^1] |
-| COMPS  | Compliments  | def | pg. 66, §3.3.4 |
-| CONJ | Conjugate | def | src |
-| CFG | Context-Free Grammar | def | pg. 26 |
-| D | Determiner | def | pg. 27 |
-| det | Determiner | def | src |
-| dtr | Ditransitive | def | pg. 62 |
-| DTV | Ditransitive Verb | def | pg. 38 |
-| GPSG | Generalized Phrase Structure Grammar | def | pg. 36 |
-| HFP | Head Feature Principle | def | src |
-| HPSG | Head-driven Phrase Structure Grammar | def | pg. 36 |
-| IST | Immediate Supertype | def | pg. 55 |
-| itr  | Intransitive  | def | pg. 62 |
-| IV | Intransitive Verb | def | pg. 38 |
-| MOD | Modifier | def | src |
-| N | Noun | def | src |
-| NOM | Nominal | def | pg. 31 |
-| NP | Noun Phrase | def | pg. 26 |
-| NUM | Number | def | pg. 51 |
-| P | Preposition | def | src |
-| pl | Plural | def | src |
-| PER | Person | def | src |
-| PP | Preposition Phrase | def | src |
-| POS | Part of Speech | def | pg. 51 |
+| COMPS  | Compliments  | | pg. 66, §3.3.4 |
+| CONJ | Conjugate | | |
+| CFG | Context-Free Grammar | | pg. 26 |
+| D | Determiner | | pg. 27 |
+| det | Determiner | | |
+| dtr | Ditransitive | | pg. 62 |
+| DTV | Ditransitive Verb | | pg. 38 |
+| GPSG | Generalized Phrase Structure Grammar | | pg. 36 |
+| HFP | Head Feature Principle | | |
+| HPSG | Head-driven Phrase Structure Grammar | | pg. 36 |
+| IST | Immediate Supertype | | pg. 55 |
+| itr  | Intransitive  | | pg. 62 |
+| IV | Intransitive Verb | | pg. 38 |
+| MOD | Modifier | | |
+| N | Noun | | |
+| NOM | Nominal | | pg. 31 |
+| NP | Noun Phrase | | pg. 26 |
+| NUM | Number | | pg. 51 |
+| P | Preposition | | |
+| pl | Plural | | |
+| PER | Person | | |
+| PP | Preposition Phrase | | |
+| POS | Part of Speech | | pg. 51 |
 | S | Sentence | Used as the initial symbol at the root of a CFG. | pg. 27 |
-| str | Strict-Transitive | def | pg. 62
-| RESTR | Restriction | def | pg. 136, §5.3.2  |
-| RELN | Relation | def | src |
-| sg | Singular | def | pg. 51 |
+| str | Strict-Transitive | | pg. 62
+| RESTR | Restriction | | pg. 136, §5.3.2  |
+| RELN | Relation | | |
+| sg | Singular | | pg. 51 |
 | SOV | Subject-Object-Verb | Lexical order in some languages, e.g. Japanese | pg. 93 |
-| SPR | Specifier | def | src |
-| TV | Transitive Verb | def | pg. 38 |
-| V | Verb | def | src |
-| VAL | Valence | def | src |
-| VP | Verb Phrase | def | src |
+| SPR | Specifier | | |
+| TV | Transitive Verb | | pg. 38 |
+| V | Verb | | |
+| VAL | Valence | | |
+| VP | Verb Phrase | | |
 
 
 -----
