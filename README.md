@@ -46,7 +46,7 @@ Meta discussion: Should this include general vocabulary, including words defined
 | RESTR | Restriction | def | pg. 136, §5.3.2  |
 | RELN | Relation | def | src |
 | sg | Singular | def | pg. 51 |
-| SOV | Subject-Object-Verb | Lexical order in some languages, e.g. Japanese | def | pg. 93 |
+| SOV | Subject-Object-Verb | Lexical order in some languages, e.g. Japanese | pg. 93 |
 | SPR | Specifier | def | src |
 | V | Verb | def | src |
 | VAL | Valence | def | src |
