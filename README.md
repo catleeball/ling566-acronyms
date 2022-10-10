@@ -21,9 +21,9 @@ Meta discussion: Should this include general vocabulary, including words defined
 | A | Adjective | | pg. 27 |
 | AP | Adjective Phrase | | |
 | AGR | Agreement | | |
-| AUX | Auxillary | | pg. 61, §3.3.3 |
+| AUX | Auxillary | | pg. 61 |
 | AVM | Attribute-Value Matrix | Bracket notation used in textbook for feature structures. | [^1] |
-| COMPS  | Compliments  | | pg. 66, §3.3.4 |
+| COMPS  | Compliments  | | pg. 66 |
 | CONJ | Conjugate | | |
 | CFG | Context-Free Grammar | | pg. 26 |
 | D | Determiner | | pg. 27 |
@@ -48,7 +48,7 @@ Meta discussion: Should this include general vocabulary, including words defined
 | POS | Part of Speech | | pg. 51 |
 | S | Sentence | Used as the initial symbol at the root of a CFG. | pg. 27 |
 | str | Strict-Transitive | | pg. 62
-| RESTR | Restriction | | pg. 136, §5.3.2  |
+| RESTR | Restriction | | pg. 136  |
 | RELN | Relation | | |
 | sg | Singular | | pg. 51 |
 | SOV | Subject-Object-Verb | Lexical order in some languages, e.g. Japanese | pg. 93 |
