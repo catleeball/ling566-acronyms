@@ -33,14 +33,15 @@ Meta discussion: Should this include general vocabulary, including words defined
 | N | Noun | def | src |
 | NOM | Nominative | def | src |
 | NP | Noun Phrase | def | src |
-| NUM | Number | def | src |
+| NUM | Number | def | pg. 51 |
 | P | Preposition | def | src |
 | pl | Plural | def | src |
 | PER | Person | def | src |
 | PP | Preposition Phrase | def | src |
+| POS | Part of Speech | def | pg. 51 |
 | RESTR | Restriction | def | pg. 136, §5.3.2  |
 | RELN | Relation | def | src |
-| sg | Singular | def | src |
+| sg | Singular | def | pg. 51 |
 | SPR | Specifier | def | src |
 | V | Verb | def | src |
 | VAL | Valence | def | src |
