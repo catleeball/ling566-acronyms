@@ -1,8 +1,6 @@
 # LING 566 Acronyms and Abbreviations
 
-An extended glossary of acronyms for "Syntactic Theory A Formal Introduction" and other terms encountered UW LING 566.
-
-In the sources column, if a page is specified without a source, its the LING 566 textbook.: "_Syntactic Theory: A Formal Introduction_"
+A glossary of acronyms for _"Syntactic Theory: A Formal Introduction"_ (Sag, Wasow, Bender, 1999) and other terms encountered UW LING 566. In the sources column, if a page is specified without a source, it refers to _"Syntactic Theory"_.
 
 Please feel free to edit this and send a PR!
 
@@ -18,13 +16,13 @@ Meta discussion: Should this include general vocabulary, including words defined
 -->
 
 
-| Acronym       | Expaneded     | Definition / Notes | Sources  |
+| Acronym       | Expanded     | Definition / Notes | Sources  |
 | ------------- | ------------- | ---------- | ---------|
 | A | Adjective | def | pg. 27 |
 | AP | Adjective Phrase | def | src |
 | AGR | Agreement | def | src |
 | AUX | Auxillary | def | pg. 61, §3.3.3 |
-| AVM | Attribute-Value Matrix | Bracket notation used in textbook for feature structures. | Pollard, Sag (1994)[^1], pg. 20 |
+| AVM | Attribute-Value Matrix | Bracket notation used in textbook for feature structures. | [^1] |
 | COMPS  | Compliments  | def | pg. 66, §3.3.4 |
 | CONJ | Conjugate | def | src |
 | CFG | Context-Free Grammar | def | pg. 26 |
@@ -65,4 +63,4 @@ Meta discussion: Should this include general vocabulary, including words defined
 
 ## Footnotes
 
-[^1]: _"Head-Driven Phrase Structure Grammar"_. [Google books link](https://books.google.com/books?id=Ftvg8Vo3QHwC&lpg=PP1&pg=PA20#v=onepage&q=avm&f=false)
+[^1]: _Pollard, Sag "Head-Driven Phrase Structure Grammar"_, 1994, pg 20. [Google books link](https://books.google.com/books?id=Ftvg8Vo3QHwC&lpg=PP1&pg=PA20#v=onepage&q=avm&f=false)
