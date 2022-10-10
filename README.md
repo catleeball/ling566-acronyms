@@ -1,4 +1,4 @@
-# LING 566 Extended Glossary of Acronyms
+# LING 566 Acronyms and Abbreviations
 
 An extended glossary of acronyms for "Syntactic Theory A Formal Introduction" and other terms encountered UW LING 566.
 
