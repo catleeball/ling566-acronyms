@@ -18,7 +18,7 @@ Meta discussion: Should this include general vocabulary, including words defined
 -->
 
 
-| Acronym       | Expaneded     | Definition | Sources  |
+| Acronym       | Expaneded     | Definition / Notes | Sources  |
 | ------------- | ------------- | ---------- | ---------|
 | A | Adjective | def | pg. 27 |
 | AP | Adjective Phrase | def | src |
