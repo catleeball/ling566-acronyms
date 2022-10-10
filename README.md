@@ -2,7 +2,7 @@
 
 An extended glossary of acronyms for "Syntactic Theory A Formal Introduction" and other terms encountered UW LING 566.
 
-In the sources column, if a page is specified without a source, its the LING 566 textbook.: "_Syntactic Theory: A Formal Introduction_", 2nd edition
+In the sources column, if a page is specified without a source, its the LING 566 textbook.: "_Syntactic Theory: A Formal Introduction_"
 
 Please feel free to edit this and send a PR!
 
@@ -27,6 +27,7 @@ Meta discussion: Should this include general vocabulary, including words defined
 | CONJ | Conjugate | def | src |
 | det | Determiner | def | src |
 | HFP | Head Feature Principle | def | src |
+| IST | Immediate Supertype | def | pg. 55 |
 | itr  | Intransitive  | def | src |
 | MOD | Modifier | def | src |
 | N | Noun | def | src |
@@ -34,10 +35,12 @@ Meta discussion: Should this include general vocabulary, including words defined
 | NP | Noun Phrase | def | src |
 | NUM | Number | def | src |
 | P | Preposition | def | src |
+| pl | Plural | def | src |
 | PER | Person | def | src |
 | PP | Preposition Phrase | def | src |
 | RESTR | Restriction | def | pg. 136, §5.3.2  |
 | RELN | Relation | def | src |
+| sg | Singular | def | src |
 | SPR | Specifier | def | src |
 | V | Verb | def | src |
 | VAL | Valence | def | src |
