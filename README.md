@@ -34,7 +34,7 @@ Meta discussion: Should this include general vocabulary, including words defined
 | itr  | Intransitive  | def | src |
 | MOD | Modifier | def | src |
 | N | Noun | def | src |
-| NOM | Nominal | def | p.g 31 |
+| NOM | Nominal | def | pg. 31 |
 | NP | Noun Phrase | def | pg. 26 |
 | NUM | Number | def | pg. 51 |
 | P | Preposition | def | src |
@@ -46,6 +46,7 @@ Meta discussion: Should this include general vocabulary, including words defined
 | RESTR | Restriction | def | pg. 136, §5.3.2  |
 | RELN | Relation | def | src |
 | sg | Singular | def | pg. 51 |
+| SOV | Subject-Object-Verb | Lexical order in some languages, e.g. Japanese | def | pg. 93 |
 | SPR | Specifier | def | src |
 | V | Verb | def | src |
 | VAL | Valence | def | src |
