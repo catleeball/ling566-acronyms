@@ -24,6 +24,7 @@ Meta discussion: Should this include general vocabulary, including words defined
 | AP | Adjective Phrase | def | src |
 | AGR | Agreement | def | src |
 | AUX | Auxillary | def | pg. 61, §3.3.3 |
+| AVM | Attribute-Value Matrix | Bracket notation used in textbook for feature structures. | Pollard, Sag (1994)[^1], pg. 20 |
 | COMPS  | Compliments  | def | pg. 66, §3.3.4 |
 | CONJ | Conjugate | def | src |
 | CFG | Context-Free Grammar | def | pg. 26 |
@@ -58,3 +59,10 @@ Meta discussion: Should this include general vocabulary, including words defined
 | V | Verb | def | src |
 | VAL | Valence | def | src |
 | VP | Verb Phrase | def | src |
+
+
+-----
+
+## Footnotes
+
+[^1]: _"Head-Driven Phrase Structure Grammar"_. [Google books link](https://books.google.com/books?id=Ftvg8Vo3QHwC&lpg=PP1&pg=PA20#v=onepage&q=avm&f=false)
