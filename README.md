@@ -44,7 +44,7 @@ Meta discussion: Should this include general vocabulary, including words defined
 | NUM | Number | | pg. 51 |
 | P | Preposition | | |
 | pl | Plural | | |
-| PER | Person | | |
+| PER | Person | e.g. 1st-person, 3rd-person, etc. | |
 | PP | Preposition Phrase | | |
 | POS | Part of Speech | | pg. 51 |
 | S | Sentence | Used as the initial symbol at the root of a CFG. | pg. 27 |
