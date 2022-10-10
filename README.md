@@ -26,7 +26,7 @@ Meta discussion: Should this include general vocabulary, including words defined
 | AUX | Auxillary | def | pg. 61, §3.3.3 |
 | COMPS  | Compliments  | def | pg. 66, §3.3.4 |
 | CONJ | Conjugate | def | src |
-| CFG | Context-Free Grammar | def | src |
+| CFG | Context-Free Grammar | def | pg. 26 |
 | D | Determiner | def | pg. 27 |
 | det | Determiner | def | src |
 | HFP | Head Feature Principle | def | src |
@@ -34,15 +34,15 @@ Meta discussion: Should this include general vocabulary, including words defined
 | itr  | Intransitive  | def | src |
 | MOD | Modifier | def | src |
 | N | Noun | def | src |
-| NOM | Nominative | def | src |
-| NP | Noun Phrase | def | src |
+| NOM | Nominal | def | p.g 31 |
+| NP | Noun Phrase | def | pg. 26 |
 | NUM | Number | def | pg. 51 |
 | P | Preposition | def | src |
 | pl | Plural | def | src |
 | PER | Person | def | src |
 | PP | Preposition Phrase | def | src |
 | POS | Part of Speech | def | pg. 51 |
-| S | Sentence | Used as the initial symbol at the root of a CFG. | pg. 27
+| S | Sentence | Used as the initial symbol at the root of a CFG. | pg. 27 |
 | RESTR | Restriction | def | pg. 136, §5.3.2  |
 | RELN | Relation | def | src |
 | sg | Singular | def | pg. 51 |
