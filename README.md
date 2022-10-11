@@ -23,8 +23,10 @@ Meta discussion: Should this include general vocabulary, including words defined
 | AGR | Agreement | | |
 | AUX | Auxillary | | pg. 61 |
 | AVM | Attribute-Value Matrix | Bracket notation used in textbook for feature structures. | [^1] |
+| CASE | Case Marking | | pg. 117 |
 | COMPS  | Compliments  | | pg. 66 |
 | CONJ | Conjugate | | |
+| COUNT | Count | For determiners that vary with count/mass. | pg. 112 |
 | CFG | Context-Free Grammar | | pg. 26 |
 | D | Determiner | | pg. 27 |
 | det | Determiner | | |
