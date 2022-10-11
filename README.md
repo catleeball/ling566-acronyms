@@ -20,7 +20,7 @@ Meta discussion: Should this include general vocabulary, including words defined
 | ------------- | ------------- | ---------- | ---------|
 | A | Adjective | | pg. 27 |
 | AP | Adjective Phrase | | |
-| AGR | Agreement | | |
+| AGR | Agreement | | pg. 61 |
 | AUX | Auxillary | | pg. 61 |
 | AVM | Attribute-Value Matrix | Bracket notation used in textbook for feature structures. | [^1] |
 | CASE | Case Marking | | pg. 117 |
@@ -29,7 +29,7 @@ Meta discussion: Should this include general vocabulary, including words defined
 | COUNT | Count | For determiners that vary with count/mass. | pg. 112 |
 | CFG | Context-Free Grammar | | pg. 26 |
 | D | Determiner | | pg. 27 |
-| det | Determiner | | |
+| det | Determiner | | pg. 61 |
 | dtr | Ditransitive | | pg. 62 |
 | DTV | Ditransitive Verb | | pg. 38 |
 | GEND | Gender | | pg. 109 |
@@ -40,7 +40,7 @@ Meta discussion: Should this include general vocabulary, including words defined
 | IST | Immediate Supertype | | pg. 55 |
 | itr  | Intransitive  | | pg. 62 |
 | IV | Intransitive Verb | | pg. 38 |
-| MOD | Modifier | | |
+| MOD | Modifier | | pg. 145 |
 | N | Noun | | |
 | NOM | Nominal | | pg. 31 |
 | NP | Noun Phrase | | pg. 26 |
@@ -55,7 +55,7 @@ Meta discussion: Should this include general vocabulary, including words defined
 | S | Sentence | Used as the initial symbol at the root of a CFG. | pg. 27 |
 | SHAC | Specifier-Head Agreement Constraint | | pg. 107 |
 | SIT | Situation | | pg. 138 |
-| spr | Specifier | | |
+| SPR | Specifier | | pg. 64 |
 | str | Strict-Transitive | | pg. 62
 | sg | Singular | | pg. 51 |
 | SOV | Subject-Object-Verb | Lexical order in some languages, e.g. Japanese | pg. 93 |
