@@ -53,6 +53,7 @@ Meta discussion: Should this include general vocabulary, including words defined
 | RELN | Relation | | pg. 138 |
 | S | Sentence | Used as the initial symbol at the root of a CFG. | pg. 27 |
 | SHAC | Specifier-Head Agreement Constraint | | pg. 107 |
+| SIT | Situation | | pg. 138 |
 | spr | Specifier | | |
 | str | Strict-Transitive | | pg. 62
 | sg | Singular | | pg. 51 |
