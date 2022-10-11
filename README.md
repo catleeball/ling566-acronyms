@@ -49,12 +49,12 @@ Meta discussion: Should this include general vocabulary, including words defined
 | PER | Person | e.g. 1st-person, 3rd-person, etc. | |
 | PP | Preposition Phrase | | |
 | POS | Part of Speech | | pg. 51 |
+| RESTR | Restriction | | pg. 136  |
+| RELN | Relation | | pg. 138 |
 | S | Sentence | Used as the initial symbol at the root of a CFG. | pg. 27 |
 | SHAC | Specifier-Head Agreement Constraint | | pg. 107 |
 | spr | Specifier | | |
 | str | Strict-Transitive | | pg. 62
-| RESTR | Restriction | | pg. 136  |
-| RELN | Relation | | |
 | sg | Singular | | pg. 51 |
 | SOV | Subject-Object-Verb | Lexical order in some languages, e.g. Japanese | pg. 93 |
 | SPR | Specifier | | |
