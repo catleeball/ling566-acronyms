@@ -36,6 +36,7 @@ Meta discussion: Should this include general vocabulary, including words defined
 | GPSG | Generalized Phrase Structure Grammar | | pg. 36 |
 | HFP | Head Feature Principle | | pg. 72 |
 | HPSG | Head-driven Phrase Structure Grammar | | pg. 36 |
+| INST | Instance | | pg. 139 |
 | IST | Immediate Supertype | | pg. 55 |
 | itr  | Intransitive  | | pg. 62 |
 | IV | Intransitive Verb | | pg. 38 |
