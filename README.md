@@ -34,7 +34,8 @@ Meta discussion: Should this include general vocabulary, including words defined
 | dir | Directive | Mode for imperitive sentences, e.g. "Be happy!" | pg. 136 |
 | dtr | Ditransitive | | pg. 62 |
 | DTV | Ditransitive Verb | | pg. 38 |
-| GEND | Gender | | pg. 109 |
+| fem | Feminine | Used with GEND | pg. 150, 500 |
+| GEND | Gender | One of {fem, masc, neut} | pg. 109 |
 | GPSG | Generalized Phrase Structure Grammar | | pg. 36 |
 | HFP | Head Feature Principle | | pg. 72 |
 | HPSG | Head-driven Phrase Structure Grammar | | pg. 36 |
@@ -43,11 +44,13 @@ Meta discussion: Should this include general vocabulary, including words defined
 | IST | Immediate Supertype | | pg. 55 |
 | itr  | Intransitive  | | pg. 62 |
 | IV | Intransitive Verb | | pg. 38 |
+| masc | Masculine | Used with GEND | pg. 119, 500 |
 | MOD | Modifier | | pg. 145 |
 | MODE | Semantic Mode | One of { prop, ques, dir, ref, nonw } | pg. 136 |
 | N | Noun | | |
 | NOM | Nominal | | pg. 31 |
 | NP | Noun Phrase | | pg. 26 |
+| neut | Neuter | Used with GEND | pg. 109 |
 | NUM | Number | | pg. 51 |
 | P | Preposition | | |
 | pl | Plural | | |
