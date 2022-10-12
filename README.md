@@ -21,25 +21,28 @@ Meta discussion: Should this include general vocabulary, including words defined
 | Acronym       | Expanded     | Definition / Notes | Sources  |
 | ------------- | ------------- | ---------- | ---------|
 | A | Adjective | | pg. 27 |
+| acc | Accusative | | pg. 126, 509 |
 | AP | Adjective Phrase | | pg. 501 |
 | ADV | Adverb | | pg. 147, 501 |
 | AGR | Agreement | | pg. 61 |
 | AUX | Auxillary | | pg. 61 |
 | AVM | Attribute-Value Matrix | Bracket notation used in textbook for feature structures. | [^1] |
 | BV | Bound-Variable | | pg. 152 |
-| CASE | Case Marking | | pg. 117 |
+| CASE | Case Marking | One of { nom, acc } | pg. 117 |
 | COMPS  | Compliments  | | pg. 66 |
 | CONJ | Conjugate | | |
 | COUNT | Count | For determiners that vary with count/mass. | pg. 112 |
 | CP | Complementizer Phrase | | pg. 340, 501 |
 | CFG | Context-Free Grammar | | pg. 26 |
 | D | Determiner | | pg. 27 |
+| dat | Dative | | 126 |
 | det | Determiner | | pg. 61 |
 | dir | Directive | Mode for imperitive sentences, e.g. "Be happy!" | pg. 136 |
 | DP | Determiner Phrase | | pg. 157, 501 |
 | dtr | Ditransitive | | pg. 62 |
 | DTV | Ditransitive Verb | | pg. 38 |
 | fem | Feminine | Used with GEND | pg. 150, 500 |
+| gen | Genative | | pg. 126 |
 | GEND | Gender | One of {fem, masc, neut} | pg. 109 |
 | GPSG | Generalized Phrase Structure Grammar | | pg. 36 |
 | HFP | Head Feature Principle | | pg. 72 |
