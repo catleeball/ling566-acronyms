@@ -2,6 +2,8 @@
 
 A glossary of acronyms for _"Syntactic Theory: A Formal Introduction"_ (Sag, Wasow, Bender, 1999) and other terms encountered UW LING 566. In the sources column, if a page is specified without a source, it refers to _"Syntactic Theory"_.
 
+Note that Appendix A (starting on pg. 491) lists features, types, grammar rules, etc.
+
 Please feel free to edit this and send a PR!
 
 ---
@@ -19,7 +21,8 @@ Meta discussion: Should this include general vocabulary, including words defined
 | Acronym       | Expanded     | Definition / Notes | Sources  |
 | ------------- | ------------- | ---------- | ---------|
 | A | Adjective | | pg. 27 |
-| AP | Adjective Phrase | | |
+| AP | Adjective Phrase | | pg. 501 |
+| ADV | Adverb | | pg. 147, 501 |
 | AGR | Agreement | | pg. 61 |
 | AUX | Auxillary | | pg. 61 |
 | AVM | Attribute-Value Matrix | Bracket notation used in textbook for feature structures. | [^1] |
@@ -28,10 +31,12 @@ Meta discussion: Should this include general vocabulary, including words defined
 | COMPS  | Compliments  | | pg. 66 |
 | CONJ | Conjugate | | |
 | COUNT | Count | For determiners that vary with count/mass. | pg. 112 |
+| CP | Complementizer Phrase | | pg. 340, 501 |
 | CFG | Context-Free Grammar | | pg. 26 |
 | D | Determiner | | pg. 27 |
 | det | Determiner | | pg. 61 |
 | dir | Directive | Mode for imperitive sentences, e.g. "Be happy!" | pg. 136 |
+| DP | Determiner Phrase | | pg. 157, 501 |
 | dtr | Ditransitive | | pg. 62 |
 | DTV | Ditransitive Verb | | pg. 38 |
 | fem | Feminine | Used with GEND | pg. 150, 500 |
@@ -47,16 +52,16 @@ Meta discussion: Should this include general vocabulary, including words defined
 | masc | Masculine | Used with GEND | pg. 119, 500 |
 | MOD | Modifier | | pg. 145 |
 | MODE | Semantic Mode | One of { prop, ques, dir, ref, nonw } | pg. 136 |
-| N | Noun | | |
-| NOM | Nominal | | pg. 31 |
+| N | Noun | | pg. 501 |
+| NOM | Nominal | | pg. 31, 501 |
 | NP | Noun Phrase | | pg. 26 |
 | neut | Neuter | Used with GEND | pg. 109 |
 | NUM | Number | | pg. 51 |
-| P | Preposition | | |
+| P | Preposition | | pg. 501 |
 | pl | Plural | | |
 | PER | Person | e.g. 1st-person, 3rd-person, etc. | |
 | prop | Proposition | Mode for non-inverted sentence, e.g. "Kim is happy." | pg. 136 |
-| PP | Preposition Phrase | | |
+| PP | Preposition Phrase | | pg. 501 |
 | POS | Part of Speech | | pg. 51 |
 | QRESTR | Quantifier-Restriction | | pg. 150 |
 | QSCOPE | Quantifier-Scope | | pg. 150 |
@@ -64,7 +69,7 @@ Meta discussion: Should this include general vocabulary, including words defined
 | ref | Reference | Mode for just an NP in a sentence, e.g. "Kim" | pg. 136 |
 | RESTR | Restriction | | pg. 136  |
 | RELN | Relation | | pg. 138 |
-| S | Sentence | Used as the initial symbol at the root of a CFG. | pg. 27 |
+| S | Sentence | Used as the initial symbol at the root of a CFG. | pg. 27, 501 |
 | SHAC | Specifier-Head Agreement Constraint | | pg. 107 |
 | SIT | Situation | | pg. 138 |
 | SPR | Specifier | | pg. 64 |
@@ -75,7 +80,7 @@ Meta discussion: Should this include general vocabulary, including words defined
 | SOV | Subject-Object-Verb | Lexical order in some languages, e.g. Japanese | pg. 93 |
 | SPR | Specifier | | |
 | TV | Transitive Verb | | pg. 38 |
-| V | Verb | | |
+| V | Verb | | pg. 501 |
 | VAL | Valence | | |
 | VP | Verb Phrase | | |
 
