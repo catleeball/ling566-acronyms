@@ -30,6 +30,7 @@ Meta discussion: Should this include general vocabulary, including words defined
 | CFG | Context-Free Grammar | | pg. 26 |
 | D | Determiner | | pg. 27 |
 | det | Determiner | | pg. 61 |
+| dir | Directive | Mode for imperitive sentences, e.g. "Be happy!" | pg. 136 |
 | dtr | Ditransitive | | pg. 62 |
 | DTV | Ditransitive Verb | | pg. 38 |
 | GEND | Gender | | pg. 109 |
@@ -41,6 +42,7 @@ Meta discussion: Should this include general vocabulary, including words defined
 | itr  | Intransitive  | | pg. 62 |
 | IV | Intransitive Verb | | pg. 38 |
 | MOD | Modifier | | pg. 145 |
+| MODE | Semantic Mode | One of { prop, ques, dir, ref, nonw } | pg. 136 |
 | N | Noun | | |
 | NOM | Nominal | | pg. 31 |
 | NP | Noun Phrase | | pg. 26 |
@@ -48,14 +50,19 @@ Meta discussion: Should this include general vocabulary, including words defined
 | P | Preposition | | |
 | pl | Plural | | |
 | PER | Person | e.g. 1st-person, 3rd-person, etc. | |
+| prop | Proposition | Mode for non-inverted sentence, e.g. "Kim is happy." | pg. 136 |
 | PP | Preposition Phrase | | |
 | POS | Part of Speech | | pg. 51 |
+| ques | Question | Mode for inverted sentence, e.g. "Is Kim happy?" | pg. 136 |
+| ref | Reference | Mode for just an NP in a sentence, e.g. "Kim" | pg. 136 |
 | RESTR | Restriction | | pg. 136  |
 | RELN | Relation | | pg. 138 |
 | S | Sentence | Used as the initial symbol at the root of a CFG. | pg. 27 |
 | SHAC | Specifier-Head Agreement Constraint | | pg. 107 |
 | SIT | Situation | | pg. 138 |
 | SPR | Specifier | | pg. 64 |
+| SYN | Syntax | | pg. 140 |
+| SEM | Semantics | | pg. 140 |
 | str | Strict-Transitive | | pg. 62
 | sg | Singular | | pg. 51 |
 | SOV | Subject-Object-Verb | Lexical order in some languages, e.g. Japanese | pg. 93 |
