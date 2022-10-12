@@ -23,6 +23,7 @@ Meta discussion: Should this include general vocabulary, including words defined
 | AGR | Agreement | | pg. 61 |
 | AUX | Auxillary | | pg. 61 |
 | AVM | Attribute-Value Matrix | Bracket notation used in textbook for feature structures. | [^1] |
+| BV | Bound-Variable | | pg. 152 |
 | CASE | Case Marking | | pg. 117 |
 | COMPS  | Compliments  | | pg. 66 |
 | CONJ | Conjugate | | |
@@ -38,6 +39,7 @@ Meta discussion: Should this include general vocabulary, including words defined
 | HFP | Head Feature Principle | | pg. 72 |
 | HPSG | Head-driven Phrase Structure Grammar | | pg. 36 |
 | INST | Instance | | pg. 139 |
+| IND | Index | | pg. 150 |
 | IST | Immediate Supertype | | pg. 55 |
 | itr  | Intransitive  | | pg. 62 |
 | IV | Intransitive Verb | | pg. 38 |
@@ -53,6 +55,8 @@ Meta discussion: Should this include general vocabulary, including words defined
 | prop | Proposition | Mode for non-inverted sentence, e.g. "Kim is happy." | pg. 136 |
 | PP | Preposition Phrase | | |
 | POS | Part of Speech | | pg. 51 |
+| QRESTR | Quantifier-Restriction | | pg. 150 |
+| QSCOPE | Quantifier-Scope | | pg. 150 |
 | ques | Question | Mode for inverted sentence, e.g. "Is Kim happy?" | pg. 136 |
 | ref | Reference | Mode for just an NP in a sentence, e.g. "Kim" | pg. 136 |
 | RESTR | Restriction | | pg. 136  |
