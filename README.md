@@ -81,7 +81,7 @@ Meta discussion: Should this include general vocabulary, including words defined
 | str | Strict-Transitive | | pg. 62
 | sg | Singular | | pg. 51 |
 | SOV | Subject-Object-Verb | Lexical order in some languages, e.g. Japanese | pg. 93 |
-| SPR | Specifier | | |
+| SPR | Specifier | _(Glossary, pg. 568)_ We use the term ‘specifier’ to cover subjects of clauses, determiners of noun phrases, and certain other constituents that are neither heads of the phrases they appear in nor complements to the heads. In English, the specifier of a phrase precedes its head [q.v.] and complements [q.v.]. _See also_ determiner; complement. | pg. 568 |
 | TV | Transitive Verb | | pg. 38 |
 | V | Verb | | pg. 501 |
 | VAL | Valence | | |
